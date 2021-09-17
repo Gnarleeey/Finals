@@ -1,0 +1,23 @@
+body {
+  background-image: url("../images/bg1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-opacity-dark {
+  background-color:black;
+  border: solid black 2px;
+}
+
+.bg-opacity-secondary {
+  background-color: white;
+}
+
+.bg-opacity-tan {
+  background-color: black;
+}
+.container {
+  max-width: 960px!important;
+}
+
